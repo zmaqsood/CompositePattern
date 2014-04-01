@@ -3,7 +3,7 @@
  */
 
 /**
- * @author zainmaqsood
+ * @author zainmaqsood, irfanraziuddin
  *
  */
 public class Main {

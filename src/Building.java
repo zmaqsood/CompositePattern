@@ -5,7 +5,7 @@ import java.util.ArrayList;
  */
 
 /**
- * @author zainmaqsood
+ * @author zainmaqsood, irfanraziuddin
  *
  */
 public class Building implements Facility{
